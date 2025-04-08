@@ -1,0 +1,94 @@
+Dashboard: ENC3246 - AI Usage Across Majors
+
+Page: Page 1
+
+Title: Which category applies to your major?
+Description: Q1 - Which category applies to your major?
+
+Q1 - Which category applies to your major?,Count,Number of responses
+Engineering Major,18,18
+Business Major,3,3
+Liberal Arts and Sciences Major,6,6
+Health Professions Major,2,2
+
+Title: Which category applies to your major?
+Description: Q1 - Which category applies to your major?
+
+Q1 - Which category applies to your major?,Percentage,Count
+Engineering Major,62%,18
+Business Major,10%,3
+Liberal Arts and Sciences Major,21%,6
+Health Professions Major,7%,2
+
+Title: Which category applies to your major?
+Description: QID1
+
+Which category applies to your major?,Average,Minimum,Maximum,Count
+Engineering Major,1.00,1.00,1.00,18
+Business Major,2.00,2.00,2.00,3
+Liberal Arts and Sciences Major,3.00,3.00,3.00,6
+Health Professions Major,4.00,4.00,4.00,2
+
+Title: How frequently do you use AI tools for academic purposes?
+Description: Q2
+
+How frequently do you use AI tools for academic purposes?,Average,Minimum,Maximum,Count
+Please pick a choice from 0 to 5,3.25,2.00,5.00,28
+
+Title: Please select all AI tools and services you use/have used for academic purposes
+Description: Q3 - Please select all AI tools and services you use/have used for academic purposes
+
+Q3 - Please select all AI tools and services you use/have used for academic purposes,Count,Number of responses
+ChatGPT,28,28
+Gemini,14,14
+DeepSeek,3,3
+Claude,8,8
+Dall-E,4,4
+Grammarly AI,6,6
+
+Title: Please select all AI tools and services you use/have used for academic purposes
+Description: Q3 - Please select all AI tools and services you use/have used for academic purposes
+
+Q3 - Please select all AI tools and services you use/have used for academic purposes,Percentage,Count
+ChatGPT,97%,28
+Gemini,48%,14
+DeepSeek,10%,3
+Claude,28%,8
+Dall-E,14%,4
+Grammarly AI,21%,6
+
+Title: Please select all academic tasks you use/have used AI for
+Description: Q4 - Please select all academic tasks you use/have used AI for
+
+Q4 - Please select all academic tasks you use/have used AI for,Count,Number of responses
+"Writing and Editing (generating outlines, drafts, checking grammar and spelling)",24,24
+"Coding (code generation, debugging, optimization)",15,15
+"Research and Information Gathering (searching for papers, summarizing academic sources)",21,21
+"Studying and Note-Taking (summarizing lecture transcripts, generating flashcards, explaining concepts)",16,16
+"Data Analysis and Visualization (cleaning datasets, performing statistical analysis, creating data visualizations and graphs)",7,7
+"Math and Problem Solving (solving math problems, generating proofs, explaining word problems)",18,18
+"Presentation and Content Creation (designing slides, creating infographics and visual aids)",5,5
+"Productivity and Organization (creating to-do lists, managing tasks and deadlines)",5,5
+"Career and Professional Development (optimizing resume, simulating an interview, searching for job/internship listings)",14,14
+
+Title: Please select all academic tasks you use/have used AI for
+Description: Q4 - Please select all academic tasks you use/have used AI for
+
+Q4 - Please select all academic tasks you use/have used AI for,Percentage,Count
+"Writing and Editing (generating outlines, drafts, checking grammar and spelling)",83%,24
+"Coding (code generation, debugging, optimization)",52%,15
+"Research and Information Gathering (searching for papers, summarizing academic sources)",72%,21
+"Studying and Note-Taking (summarizing lecture transcripts, generating flashcards, explaining concepts)",55%,16
+"Data Analysis and Visualization (cleaning datasets, performing statistical analysis, creating data visualizations and graphs)",24%,7
+"Math and Problem Solving (solving math problems, generating proofs, explaining word problems)",62%,18
+"Presentation and Content Creation (designing slides, creating infographics and visual aids)",17%,5
+"Productivity and Organization (creating to-do lists, managing tasks and deadlines)",17%,5
+"Career and Professional Development (optimizing resume, simulating an interview, searching for job/internship listings)",48%,14
+
+Title: Rank your agreement with the following statements
+Description: Q5
+
+Rank your agreement with the following statements,Average,Minimum,Maximum,Count
+AI improves my learning experience as a student,4.17,1.00,5.00,29
+AI tools are accessible to me,4.43,3.00,5.00,30
+AI tools are more beneficial in my field of study compared to others,3.60,2.00,5.00,30
